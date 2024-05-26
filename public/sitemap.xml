@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://SunnyNymph.org/posts/</loc>
     <lastmod>2024-05-26T03:14:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://SunnyNymph.org/</loc>
     <lastmod>2024-05-26T03:14:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test1---%E5%89%AF%E6%9C%AC/</loc>
+    <loc>https://SunnyNymph.org/posts/test1---%E5%89%AF%E6%9C%AC/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://SunnyNymph.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://SunnyNymph.org/tags/</loc>
   </url>
 </urlset>
